@@ -1,3 +1,4 @@
+@regression
 Feature: Logged user could add different products to CompareList
   Background: Logged user could add different products to CompareList
     Given user navigate to Login pageCL
